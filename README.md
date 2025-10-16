@@ -17,3 +17,4 @@ Data analysis and visualization of coupon acceptance behavior using Python, Seab
 2. Acceptance of Coffe House Coupons is influenced by socila connections, meetings and time of the day. As the day progress acceptance is less, which tells us people prefer coffee early in the day than later.
 
 # Jupyter notebook
+Here is the link for Jupyter notebook: https://github.com/nuggus/coupoun-acceptance-analysis/blob/master/coupon_acceptance_analysis.ipynb
