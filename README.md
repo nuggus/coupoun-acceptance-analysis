@@ -16,5 +16,11 @@ Data analysis and visualization of coupon acceptance behavior using Python, Seab
 1. Drivers traveling with friends, especially during morning or early afternoon hours, are more likely to accept coffee house coupons.
 2. Acceptance of Coffe House Coupons is influenced by socila connections, meetings and time of the day. As the day progress acceptance is less, which tells us people prefer coffee early in the day than later.
 
+
+### Next steps and recommendations
+
+For business, focus future marketing efforts on socially active, younger adults who already visit bars or low-cost restaurants.
+Use data-driven personalization and timed delivery to increase coupon acceptance and customer engagement.
+
 # Jupyter notebook
 Here is the link for Jupyter notebook: https://github.com/nuggus/coupoun-acceptance-analysis/blob/master/coupon_acceptance_analysis.ipynb
