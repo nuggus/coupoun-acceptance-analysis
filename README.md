@@ -23,7 +23,7 @@ There are five coupon types in total — *Bar, Coffee House, Carry Out & Take Aw
 
 ## 📊 Summary of Findings  
 
-### **Observations on the Dataset**
+### **Findings on the Dataset**
 1. The `car` column has **~99% missing values**, making it unsuitable for analysis.  
 2. There are **74 duplicate rows**, which were removed to avoid data bias.  
 3. The `age` column is stored as an **object type** (categorical text) and required transformation for numerical analysis.
