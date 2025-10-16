@@ -27,6 +27,9 @@ There are five coupon types in total — *Bar, Coffee House, Carry Out & Take Aw
 1. The `car` column has **~99% missing values**, making it unsuitable for analysis.  
 2. There are **74 duplicate rows**, which were removed to avoid data bias.  
 3. The `age` column is stored as an **object type** (categorical text) and required transformation for numerical analysis.
+4. Overal Coupon Acceptance rateis ~ 56.84%
+5. There are **more** Coffee House Coupons followed by Restaurant (<$20), Carry Out & Take Away, Bar, Restaurant ($20–$50)
+6. Carry Out & Take Away has **highest Coupon acceptance rate** of ~73% followed by Restaurant (<$20) of ~70%, Coffee House of ~50%, Restaurant ($20–$50) of ~44, Bar of ~41%
 
 ---
 
