@@ -2,6 +2,10 @@
 Data analysis and visualization of coupon acceptance behavior using Python, Seaborn, and Plotly - exploring what factors influence whether drivers accept mobile coupons.
 
 # Summary of Findings:
+### Observations on Data set:
+1. 99% of the rows missing values for "car" column
+2. There are 74 duplicate rows
+3. "age" column is not numeric it is of type "object"
 
 ### From Bar Coupons below are the findings:
 
